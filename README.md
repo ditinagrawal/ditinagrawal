@@ -1,5 +1,11 @@
+[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://ditinagrawal.vercel.app/)
 <h1 align="center">Hi 👋, I'm Ditin Agrawal</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<img align="right" alt="coding gif" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ditinagrawal&label=Profile%20views&color=0e75b6&style=flat" alt="ditinagrawal" /> </p>
+
+<p align="left"> <a href="https://twitter.com/ditinagrawal" target="blank"><img src="https://img.shields.io/twitter/follow/ditinagrawal?logo=twitter&style=for-the-badge" alt="ditinagrawal" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -22,4 +28,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ditinagrawal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ditinagrawal" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ditinagrawal&show_icons=true&locale=en&layout=compact" alt="ditinagrawal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ditinagrawal&show_icons=true&locale=en&layout=compact" alt="ditinagrawal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ditinagrawal&show_icons=true&locale=en" alt="ditinagrawal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ditinagrawal&" alt="ditinagrawal" /></p>
