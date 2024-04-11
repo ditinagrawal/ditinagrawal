@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ditinagrawal&label=Profile%20views&color=0e75b6&style=flat" alt="ditinagrawal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ditinagrawal" alt="ditinagrawal" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://ditinagrawal.netlify.app](https://ditinagrawal.netlify.app)
